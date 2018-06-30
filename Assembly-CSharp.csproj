@@ -62,11 +62,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TextureScroller.cs" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/rbaru/OneDrive/Desktop/UnityProjects/TYS Folders/TYS_Hr20_Gauntlet_Runner/TYS_Hr20_Gauntlet_Runner/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/rbaru/OneDrive/Desktop/UnityProjects/TYS Folders/TYS_Hr20_Gauntlet_Runner/TYS_Hr20_Gauntlet_Runner/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/rbaru/OneDrive/Desktop/UnityProjects/TYS Folders/TYS_Hr20_Gauntlet_Runner/TYS_Hr20_Gauntlet_Runner/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
